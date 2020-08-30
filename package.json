@@ -1,0 +1,10 @@
+{
+  "name": "dsj-meldung-mannschaftsaufstellung",
+  "description": "Generiere Formulare zur Meldung der Mannschaftsmeldung",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "csv": "0.3.x",
+    "nomnom": "1.6.x"
+  }
+}
